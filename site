@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="description" content="programming">
+    <meta name="keywords" content="HTML, CSS, JavaScript">
+    <meta name="author" content="Meyer Macha">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
+    <link href="http://fonts.googleapis.com/css?family=Cookie" rel="stylesheet" type="text/css">
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <link rel="stylesheet" href="mystyl.css">
+    <title>panacode</title>
+  </head>
+  <body>
+      <nav>
+        <ul>
+          <h1><img  src="favicon.ico"><b>PaNaCode</b></h1>
+          <li><a href="donate.html">Donate</a></li>
+          <li><a href="login.html">LOGIN</a></li>
+          <li><a href="sinup.html">SIGNUP</a></li>
+          <li><a href="conta.html">CONTACTS</a></li>
+          <li><a href="blog.html">BLOG</a></li>
+          <li><a href="about.html">ABOUT</a></li>
+       </ul>
+      </nav>
+      <div  id="myHeader">
+        <p>We at <b>Panacode</b> We are  ready to  help you.</p>
+      </div>
+
+    <!-- <iframe width="420" height="345" src="https://www.youtube.com/watch?v=79DijItQXMM">
+    </iframe> -->
+
+    <div>
+      <table style="width:100%">
+        <h>Our Contributors</h>
+        <tr>
+          <th>Company</th>
+          <th>Contact</th>
+          <th>Country</th>
+        </tr>
+        <tr>
+          <td>Alfred Futterkiste</td>
+          <td>+134788755</td>
+          <td>Germany</td>
+        </tr>
+        <tr>
+          <td>Cantor Comerica Montezuma</td>
+          <td>+1348776887</td>
+          <td>Mexico</td>
+        </tr>
+        <tr>
+          <td>kopho</td>
+          <td>+1347867663</td>
+          <td>Paris</td>
+        </tr>
+        <tr>
+          <td>Antrum  links</td>
+          <td>+13498766667</td>
+          <td>Niger</td>
+        </tr>
+      </table>
+    </div>
+    <p><strong>Choose your favorite Web language:</strong></p>
+    <form action="/action_page.php">
+        <label for="myfile">Select a file:</label>
+        <input type="file" id="myfile" name="myfile"><br><br>
+      <input type="radio" id="html" name="fav_language" value="HTML">
+      <label for="html">HTML</label><br>
+      <input type="radio" id="css" name="fav_language" value="CSS">
+      <label for="css">CSS</label><br>
+      <input type="radio" id="javascript" name="fav_language" value="JavaScript">
+      <label for="javascript">JavaScript</label><br><br>
+      <input type="submit" value="Submit">
+    </form> 
+    <h2>Trending Blogs Today:</h2><br>
+<p><strong>Are  you wondering to  hear  what  happened  today?</strong> 
+  A movie landing page  was developed.<br> 
+  A thing which have  never happened  before.<br>
+  Be  among the first ones  to  grab  it  at  discounted  price..</p>
+
+<div class="row">
+  <div class="column" style="background-color:#aaa;">
+    <h2><b>Dragon  movie</b> landing  page</h2>
+    <p><img src="panacode.jpeg"></p>
+    <p>Are  you wondering to  hear  what  happened  today?
+      A movie landing page  was developed. 
+      A thing which have  never happened  before.
+      Be  among the first ones  to  grab  it  at  discounted  price.</p>
+  </div>
+  <div class="column" style="background-color:#84e1e4;">
+    <h2>Sumila  AI  lading page</h2>
+    <p><img src="panacode.jpeg"></p>
+    <p>Are  you wondering to  hear  what  happened  today?
+      A movie landing page  was developed. 
+      A thing which have  never happened  before.
+      Be  among the first ones  to  grab  it  at  discounted  price..</p>
+  </div>
+  <div class="column" style="background-color:#e48d8d;">
+    <h2>TechBot AI  lading  page</h2>
+    <p><img src="panacode.jpeg"></p>
+    <p>Are  you wondering to  hear  what  happened  today?
+      A movie landing page  was developed. 
+      A thing which have  never happened  before.
+      Be  among the first ones  to  grab  it  at  discounted  price..</p>
+  </div>
+  <div class="column" style="background-color:#4af09d;">
+    <h2>Modern  blog  pages</h2>
+    <p><img src="panacode.jpeg"></p>
+    <p>Are  you wondering to  hear  what  happened  today?
+      A movie landing page  was developed. 
+      A thing which have  never happened  before.
+      Be  among the first ones  to  grab  it  at  discounted  price..</p>
+  </div>
+  <div class="column" style="background-color:#c9bdbd;">
+    <h2>A new crypto  page</h2>
+    <p><img src="panacode.jpeg"></p>
+    
+  </div>
+  <div class="column" style="background-color:#8de4b4;">
+    <h2>Marketing Booster page</h2>
+    <p><img src="marketing.jpeg"></p>
+  </div>
+  
+</div>
+
+    <br>
+    <!-- footer -->
+    <div class="main"> This is  home  for <strong>Master  developers.</strong> 
+      <footer class="footer-distributed">
+        
+        <div class="footer-left">
+   
+          <h3>PaNa<span>Code</span></h3>
+   
+          <p class="footer-links">
+             <a href="Home.html">Home</a>
+            ,<a href="about.html">About</a>
+            ,<a href="blog.html">Blog</a>
+            ,<a href="conta.html">Contact</a>
+            ,<a href="donate.html">Pricing</a>
+            ,<a href="faq.html">Faq</a> 
+          </p>
+          <p class="footer-company-about">
+            <span>About the company</span>
+            PaNa Code is a blog for web designers, graphic designers, web developers &amp; SEO Learner.
+          </p>
+        </div>
+        <div class="footer-center">
+          <p>Head Office</p>
+
+          <div>
+            <i class="fa fa-map-marker"></i>
+            <p><span>Afya-Center Street</span> RailWays, kenya</p>
+          </div>
+   
+          <div>
+            <i class="fa fa-phone"></i>
+            <p><a href="tel:+254-42684616">+254-42684616</a></p>
+          </div>
+          <div>
+            <i class="fa fa-envelope"></i>
+            <p><a href="mailto:wambuamutia6@gmail.com">contact@panacode.com</a></p><br>
+          </div>
+        </div>
+        <div class="footer-right">
+          <p>For  more  Information, lets chat</p>
+          <div class="footer-icons">
+            <a href="https://www.facebook.com/meyermacha.passwordispython.9"><i class="fa fa-facebook"></i></a>
+            <a href="https://twitter.com/Mutiawambua1"><i class="fa fa-twitter"></i></a>
+            <a href="https://www.linkedin.com/in/wambua-mutia-73ab5a206/"><i class="fa fa-linkedin"></i></a>
+            <a href="https://github.com/meyer-macha"><i class="fa fa-github"></i></a>
+   
+          </div>
+          <p class="footer-company-name">PaNaCode &copy; 2023-2027</p>
+        </p>
+        </div>
+      </footer>
+    </body>
+</html>
